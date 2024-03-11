@@ -11,4 +11,5 @@ button is broken, despite no warnings from the ESLint rule.
 
 * Run `yarn` to install the necessary dependencies.
 * Run `yarn start` to run the app.
-* Rename `src/App.fixed.js` to `src/App.js` to see the intended behavior.
+* Witness the "Alternate" button is broken (it only increments). 
+* Rename `src/App.fixed.js` to `src/App.js` to see the intended behavior (it alternates between incrementing and decrementing).
