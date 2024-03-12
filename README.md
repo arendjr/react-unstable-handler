@@ -1,7 +1,7 @@
 # React Unstable Handlers
 
 This repo reproduces a soundness error in the ESLint rule for verifying
-React exhaustive dependencies.
+React exhaustive dependencies. https://github.com/facebook/react/issues/28539
 
 The app shows a counter and three buttons: one to increment, one to decrement,
 and one to alternate between incrementing and decrementing. The alternate
